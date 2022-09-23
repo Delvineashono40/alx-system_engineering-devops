@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a_ _ Z}{a_ _z} | tr " " "\n" |grep -v "00"
